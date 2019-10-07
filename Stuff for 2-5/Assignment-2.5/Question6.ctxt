@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Question6
+comment1.params=
+comment1.target=void\ main()
+comment2.params=h\ w
+comment2.target=void\ displayBox(int,\ int)
+numComments=3
